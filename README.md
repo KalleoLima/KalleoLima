@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ---
@@ -16,7 +15,7 @@
 ## Sobre
 
 Sou estudante de Engenharia de Software com foco em Cibersegurança.  
-
+Construo projetos em Python e Java enquanto avanço no back-end e na segurança de sistemas.
 
 ---
 
@@ -25,7 +24,7 @@ Sou estudante de Engenharia de Software com foco em Cibersegurança.
 ```python
 skills = {
     "linguagens": ["Python", "Java"],
-    "estudando": ["redes", "cloud", "Banco de Dados", "Cibersegurança"],
+    "estudando": ["Banco de Dados", "Cibersegurança"],
     "foco":      "Back-End & Security"
 }
 ```
