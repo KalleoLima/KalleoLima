@@ -1,7 +1,13 @@
-Futuro Dev Back-End  
-🚀 Estudando java e Lógica de Programação todos os dias  
-🛠️ Me preparando para aprender Banco de Dados e frameworks como FastAPI  
-Cursando Engenharia de Software
+# Kalleo Lima
 
+Estudante de Engenharia de Software com foco em Cibersegurança.
 
+## Tecnologias
+- Python
+- Java
 
+## Atualmente
+- Aprofundando conhecimentos em Cibersegurança
+
+## Formação
+Engenharia de Software — em andamento
